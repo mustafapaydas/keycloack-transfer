@@ -1,0 +1,300 @@
+Record: 2023/02/17 10:36:14.671895 /home/mustafa/GolandProjects/keycloack-transfer/main.go:88: {"username":"Mustafa8335","email":"Mustafa8335@yopmail.com","firstName":"Mustafa8335mq","lastName":null,"credentials":[{"type":"password","value":"test123"}],"enabled":false,"attributes":{"test":"tst"}}
+Record: 2023/02/17 10:36:19.042734 /home/mustafa/GolandProjects/keycloack-transfer/main.go:109: Get Token is successfully
+Record: 2023/02/17 10:36:19.181782 /home/mustafa/GolandProjects/keycloack-transfer/main.go:98: 201
+Record: 2023/02/17 10:36:19.181857 /home/mustafa/GolandProjects/keycloack-transfer/main.go:88: {"username":"Mustafa8336","email":"Mustafa8336@yopmail.com","firstName":"Mustafa8336mq","lastName":null,"credentials":[{"type":"password","value":"test123"}],"enabled":false,"attributes":{"test":"tst"}}
+Record: 2023/02/17 10:36:51.710078 /home/mustafa/GolandProjects/keycloack-transfer/main.go:109: Get Token is successfully
+Record: 2023/02/17 10:36:51.843477 /home/mustafa/GolandProjects/keycloack-transfer/main.go:98: 201
+Record: 2023/02/17 10:36:51.843533 /home/mustafa/GolandProjects/keycloack-transfer/main.go:88: {"username":"Mustafa8337","email":"Mustafa8337@yopmail.com","firstName":"Mustafa8337mq","lastName":null,"credentials":[{"type":"password","value":"test123"}],"enabled":false,"attributes":{"test":"tst"}}
+Record: 2023/02/17 10:36:51.974506 /home/mustafa/GolandProjects/keycloack-transfer/main.go:109: Get Token is successfully
+Record: 2023/02/17 10:36:52.106883 /home/mustafa/GolandProjects/keycloack-transfer/main.go:98: 201
+Record: 2023/02/17 10:36:52.106934 /home/mustafa/GolandProjects/keycloack-transfer/main.go:88: {"username":"Mustafa8338","email":"Mustafa8338@yopmail.com","firstName":"Mustafa8338mq","lastName":null,"credentials":[{"type":"password","value":"test123"}],"enabled":false,"attributes":{"test":"tst"}}
+Record: 2023/02/17 10:36:52.238161 /home/mustafa/GolandProjects/keycloack-transfer/main.go:109: Get Token is successfully
+Record: 2023/02/17 10:36:52.369777 /home/mustafa/GolandProjects/keycloack-transfer/main.go:98: 201
+Record: 2023/02/17 10:36:52.369825 /home/mustafa/GolandProjects/keycloack-transfer/main.go:88: {"username":"Mustafa8339","email":"Mustafa8339@yopmail.com","firstName":"Mustafa8339mq","lastName":null,"credentials":[{"type":"password","value":"test123"}],"enabled":false,"attributes":{"test":"tst"}}
+Record: 2023/02/17 10:36:52.501787 /home/mustafa/GolandProjects/keycloack-transfer/main.go:109: Get Token is successfully
+Record: 2023/02/17 10:36:52.640627 /home/mustafa/GolandProjects/keycloack-transfer/main.go:98: 201
+Record: 2023/02/17 10:36:52.640692 /home/mustafa/GolandProjects/keycloack-transfer/main.go:88: {"username":"Mustafa8340","email":"Mustafa8340@yopmail.com","firstName":"Mustafa8340mq","lastName":null,"credentials":[{"type":"password","value":"test123"}],"enabled":false,"attributes":{"test":"tst"}}
+Record: 2023/02/17 10:36:52.774866 /home/mustafa/GolandProjects/keycloack-transfer/main.go:109: Get Token is successfully
+Record: 2023/02/17 10:36:52.916257 /home/mustafa/GolandProjects/keycloack-transfer/main.go:98: 201
+Record: 2023/02/17 10:36:52.916328 /home/mustafa/GolandProjects/keycloack-transfer/main.go:88: {"username":"Mustafa8341","email":"Mustafa8341@yopmail.com","firstName":"Mustafa8341mq","lastName":null,"credentials":[{"type":"password","value":"test123"}],"enabled":false,"attributes":{"test":"tst"}}
+Record: 2023/02/17 10:36:53.051159 /home/mustafa/GolandProjects/keycloack-transfer/main.go:109: Get Token is successfully
+Record: 2023/02/17 10:36:53.188239 /home/mustafa/GolandProjects/keycloack-transfer/main.go:98: 201
+Record: 2023/02/17 10:36:53.188312 /home/mustafa/GolandProjects/keycloack-transfer/main.go:88: {"username":"Mustafa8342","email":"Mustafa8342@yopmail.com","firstName":"Mustafa8342mq","lastName":null,"credentials":[{"type":"password","value":"test123"}],"enabled":false,"attributes":{"test":"tst"}}
+Record: 2023/02/17 10:36:53.321493 /home/mustafa/GolandProjects/keycloack-transfer/main.go:109: Get Token is successfully
+Record: 2023/02/17 10:36:53.464224 /home/mustafa/GolandProjects/keycloack-transfer/main.go:98: 201
+Record: 2023/02/17 10:36:53.464286 /home/mustafa/GolandProjects/keycloack-transfer/main.go:88: {"username":"Mustafa8343","email":"Mustafa8343@yopmail.com","firstName":"Mustafa8343mq","lastName":null,"credentials":[{"type":"password","value":"test123"}],"enabled":false,"attributes":{"test":"tst"}}
+Record: 2023/02/17 10:36:53.606574 /home/mustafa/GolandProjects/keycloack-transfer/main.go:109: Get Token is successfully
+Record: 2023/02/17 10:36:53.743220 /home/mustafa/GolandProjects/keycloack-transfer/main.go:98: 201
+Record: 2023/02/17 10:36:53.743274 /home/mustafa/GolandProjects/keycloack-transfer/main.go:88: {"username":"Mustafa8344","email":"Mustafa8344@yopmail.com","firstName":"Mustafa8344mq","lastName":null,"credentials":[{"type":"password","value":"test123"}],"enabled":false,"attributes":{"test":"tst"}}
+Record: 2023/02/17 10:36:53.880468 /home/mustafa/GolandProjects/keycloack-transfer/main.go:109: Get Token is successfully
+Record: 2023/02/17 10:36:54.038789 /home/mustafa/GolandProjects/keycloack-transfer/main.go:98: 201
+Record: 2023/02/17 10:36:54.038849 /home/mustafa/GolandProjects/keycloack-transfer/main.go:88: {"username":"Mustafa8345","email":"Mustafa8345@yopmail.com","firstName":"Mustafa8345mq","lastName":null,"credentials":[{"type":"password","value":"test123"}],"enabled":false,"attributes":{"test":"tst"}}
+Record: 2023/02/17 10:36:54.180165 /home/mustafa/GolandProjects/keycloack-transfer/main.go:109: Get Token is successfully
+Record: 2023/02/17 10:36:54.324952 /home/mustafa/GolandProjects/keycloack-transfer/main.go:98: 201
+Record: 2023/02/17 10:36:54.324999 /home/mustafa/GolandProjects/keycloack-transfer/main.go:88: {"username":"Mustafa8346","email":"Mustafa8346@yopmail.com","firstName":"Mustafa8346mq","lastName":null,"credentials":[{"type":"password","value":"test123"}],"enabled":false,"attributes":{"test":"tst"}}
+Record: 2023/02/17 10:36:54.477668 /home/mustafa/GolandProjects/keycloack-transfer/main.go:109: Get Token is successfully
+Record: 2023/02/17 10:36:54.613840 /home/mustafa/GolandProjects/keycloack-transfer/main.go:98: 201
+Record: 2023/02/17 10:36:54.613900 /home/mustafa/GolandProjects/keycloack-transfer/main.go:88: {"username":"Mustafa8347","email":"Mustafa8347@yopmail.com","firstName":"Mustafa8347mq","lastName":null,"credentials":[{"type":"password","value":"test123"}],"enabled":false,"attributes":{"test":"tst"}}
+Record: 2023/02/17 10:36:54.746079 /home/mustafa/GolandProjects/keycloack-transfer/main.go:109: Get Token is successfully
+Record: 2023/02/17 10:36:54.880866 /home/mustafa/GolandProjects/keycloack-transfer/main.go:98: 201
+Record: 2023/02/17 10:36:54.880917 /home/mustafa/GolandProjects/keycloack-transfer/main.go:88: {"username":"Mustafa8348","email":"Mustafa8348@yopmail.com","firstName":"Mustafa8348mq","lastName":null,"credentials":[{"type":"password","value":"test123"}],"enabled":false,"attributes":{"test":"tst"}}
+Record: 2023/02/17 10:36:55.013066 /home/mustafa/GolandProjects/keycloack-transfer/main.go:109: Get Token is successfully
+Record: 2023/02/17 10:36:55.148749 /home/mustafa/GolandProjects/keycloack-transfer/main.go:98: 201
+Record: 2023/02/17 10:36:55.148812 /home/mustafa/GolandProjects/keycloack-transfer/main.go:88: {"username":"Mustafa8349","email":"Mustafa8349@yopmail.com","firstName":"Mustafa8349mq","lastName":null,"credentials":[{"type":"password","value":"test123"}],"enabled":false,"attributes":{"test":"tst"}}
+Record: 2023/02/17 10:36:55.283512 /home/mustafa/GolandProjects/keycloack-transfer/main.go:109: Get Token is successfully
+Record: 2023/02/17 10:36:55.417533 /home/mustafa/GolandProjects/keycloack-transfer/main.go:98: 201
+Record: 2023/02/17 10:36:55.417587 /home/mustafa/GolandProjects/keycloack-transfer/main.go:88: {"username":"Mustafa8350","email":"Mustafa8350@yopmail.com","firstName":"Mustafa8350mq","lastName":null,"credentials":[{"type":"password","value":"test123"}],"enabled":false,"attributes":{"test":"tst"}}
+Record: 2023/02/17 10:36:55.551480 /home/mustafa/GolandProjects/keycloack-transfer/main.go:109: Get Token is successfully
+Record: 2023/02/17 10:36:55.690895 /home/mustafa/GolandProjects/keycloack-transfer/main.go:98: 201
+Record: 2023/02/17 10:36:55.690971 /home/mustafa/GolandProjects/keycloack-transfer/main.go:88: {"username":"Mustafa8351","email":"Mustafa8351@yopmail.com","firstName":"Mustafa8351mq","lastName":null,"credentials":[{"type":"password","value":"test123"}],"enabled":false,"attributes":{"test":"tst"}}
+Record: 2023/02/17 10:36:55.827588 /home/mustafa/GolandProjects/keycloack-transfer/main.go:109: Get Token is successfully
+Record: 2023/02/17 10:36:55.965309 /home/mustafa/GolandProjects/keycloack-transfer/main.go:98: 201
+Record: 2023/02/17 10:36:55.965388 /home/mustafa/GolandProjects/keycloack-transfer/main.go:88: {"username":"Mustafa8352","email":"Mustafa8352@yopmail.com","firstName":"Mustafa8352mq","lastName":null,"credentials":[{"type":"password","value":"test123"}],"enabled":false,"attributes":{"test":"tst"}}
+Record: 2023/02/17 10:36:56.099761 /home/mustafa/GolandProjects/keycloack-transfer/main.go:109: Get Token is successfully
+Record: 2023/02/17 10:36:56.237316 /home/mustafa/GolandProjects/keycloack-transfer/main.go:98: 201
+Record: 2023/02/17 10:36:56.237374 /home/mustafa/GolandProjects/keycloack-transfer/main.go:88: {"username":"Mustafa8353","email":"Mustafa8353@yopmail.com","firstName":"Mustafa8353mq","lastName":null,"credentials":[{"type":"password","value":"test123"}],"enabled":false,"attributes":{"test":"tst"}}
+Record: 2023/02/17 10:36:56.367471 /home/mustafa/GolandProjects/keycloack-transfer/main.go:109: Get Token is successfully
+Record: 2023/02/17 10:36:56.503004 /home/mustafa/GolandProjects/keycloack-transfer/main.go:98: 201
+Record: 2023/02/17 10:36:56.503067 /home/mustafa/GolandProjects/keycloack-transfer/main.go:88: {"username":"Mustafa8354","email":"Mustafa8354@yopmail.com","firstName":"Mustafa8354mq","lastName":null,"credentials":[{"type":"password","value":"test123"}],"enabled":false,"attributes":{"test":"tst"}}
+Record: 2023/02/17 10:36:56.634720 /home/mustafa/GolandProjects/keycloack-transfer/main.go:109: Get Token is successfully
+Record: 2023/02/17 10:36:56.768848 /home/mustafa/GolandProjects/keycloack-transfer/main.go:98: 201
+Record: 2023/02/17 10:36:56.768904 /home/mustafa/GolandProjects/keycloack-transfer/main.go:88: {"username":"Mustafa8355","email":"Mustafa8355@yopmail.com","firstName":"Mustafa8355mq","lastName":null,"credentials":[{"type":"password","value":"test123"}],"enabled":false,"attributes":{"test":"tst"}}
+Record: 2023/02/17 10:36:56.900575 /home/mustafa/GolandProjects/keycloack-transfer/main.go:109: Get Token is successfully
+Record: 2023/02/17 10:36:57.037019 /home/mustafa/GolandProjects/keycloack-transfer/main.go:98: 201
+Record: 2023/02/17 10:36:57.037083 /home/mustafa/GolandProjects/keycloack-transfer/main.go:88: {"username":"Mustafa8356","email":"Mustafa8356@yopmail.com","firstName":"Mustafa8356mq","lastName":null,"credentials":[{"type":"password","value":"test123"}],"enabled":false,"attributes":{"test":"tst"}}
+Record: 2023/02/17 10:36:57.167357 /home/mustafa/GolandProjects/keycloack-transfer/main.go:109: Get Token is successfully
+Record: 2023/02/17 10:36:57.299308 /home/mustafa/GolandProjects/keycloack-transfer/main.go:98: 201
+Record: 2023/02/17 10:36:57.299364 /home/mustafa/GolandProjects/keycloack-transfer/main.go:88: {"username":"Mustafa8357","email":"Mustafa8357@yopmail.com","firstName":"Mustafa8357mq","lastName":null,"credentials":[{"type":"password","value":"test123"}],"enabled":false,"attributes":{"test":"tst"}}
+Record: 2023/02/17 10:36:57.430480 /home/mustafa/GolandProjects/keycloack-transfer/main.go:109: Get Token is successfully
+Record: 2023/02/17 10:36:57.563380 /home/mustafa/GolandProjects/keycloack-transfer/main.go:98: 201
+Record: 2023/02/17 10:36:57.563441 /home/mustafa/GolandProjects/keycloack-transfer/main.go:88: {"username":"Mustafa8358","email":"Mustafa8358@yopmail.com","firstName":"Mustafa8358mq","lastName":null,"credentials":[{"type":"password","value":"test123"}],"enabled":false,"attributes":{"test":"tst"}}
+Record: 2023/02/17 10:36:57.693628 /home/mustafa/GolandProjects/keycloack-transfer/main.go:109: Get Token is successfully
+Record: 2023/02/17 10:36:57.824889 /home/mustafa/GolandProjects/keycloack-transfer/main.go:98: 201
+Record: 2023/02/17 10:36:57.824958 /home/mustafa/GolandProjects/keycloack-transfer/main.go:88: {"username":"Mustafa8359","email":"Mustafa8359@yopmail.com","firstName":"Mustafa8359mq","lastName":null,"credentials":[{"type":"password","value":"test123"}],"enabled":false,"attributes":{"test":"tst"}}
+Record: 2023/02/17 10:36:57.954753 /home/mustafa/GolandProjects/keycloack-transfer/main.go:109: Get Token is successfully
+Record: 2023/02/17 10:36:58.088156 /home/mustafa/GolandProjects/keycloack-transfer/main.go:98: 201
+Record: 2023/02/17 10:36:58.088211 /home/mustafa/GolandProjects/keycloack-transfer/main.go:88: {"username":"Mustafa8360","email":"Mustafa8360@yopmail.com","firstName":"Mustafa8360mq","lastName":null,"credentials":[{"type":"password","value":"test123"}],"enabled":false,"attributes":{"test":"tst"}}
+Record: 2023/02/17 10:36:58.233236 /home/mustafa/GolandProjects/keycloack-transfer/main.go:109: Get Token is successfully
+Record: 2023/02/17 10:36:58.383365 /home/mustafa/GolandProjects/keycloack-transfer/main.go:98: 201
+Record: 2023/02/17 10:36:58.383420 /home/mustafa/GolandProjects/keycloack-transfer/main.go:88: {"username":"Mustafa8361","email":"Mustafa8361@yopmail.com","firstName":"Mustafa8361mq","lastName":null,"credentials":[{"type":"password","value":"test123"}],"enabled":false,"attributes":{"test":"tst"}}
+Record: 2023/02/17 10:36:58.519271 /home/mustafa/GolandProjects/keycloack-transfer/main.go:109: Get Token is successfully
+Record: 2023/02/17 10:36:58.666259 /home/mustafa/GolandProjects/keycloack-transfer/main.go:98: 201
+Record: 2023/02/17 10:36:58.666334 /home/mustafa/GolandProjects/keycloack-transfer/main.go:88: {"username":"Mustafa8362","email":"Mustafa8362@yopmail.com","firstName":"Mustafa8362mq","lastName":null,"credentials":[{"type":"password","value":"test123"}],"enabled":false,"attributes":{"test":"tst"}}
+Record: 2023/02/17 10:36:58.798513 /home/mustafa/GolandProjects/keycloack-transfer/main.go:109: Get Token is successfully
+Record: 2023/02/17 10:36:58.933575 /home/mustafa/GolandProjects/keycloack-transfer/main.go:98: 201
+Record: 2023/02/17 10:36:58.933660 /home/mustafa/GolandProjects/keycloack-transfer/main.go:88: {"username":"Mustafa8363","email":"Mustafa8363@yopmail.com","firstName":"Mustafa8363mq","lastName":null,"credentials":[{"type":"password","value":"test123"}],"enabled":false,"attributes":{"test":"tst"}}
+Record: 2023/02/17 10:36:59.066325 /home/mustafa/GolandProjects/keycloack-transfer/main.go:109: Get Token is successfully
+Record: 2023/02/17 10:36:59.205850 /home/mustafa/GolandProjects/keycloack-transfer/main.go:98: 201
+Record: 2023/02/17 10:36:59.205910 /home/mustafa/GolandProjects/keycloack-transfer/main.go:88: {"username":"Mustafa8364","email":"Mustafa8364@yopmail.com","firstName":"Mustafa8364mq","lastName":null,"credentials":[{"type":"password","value":"test123"}],"enabled":false,"attributes":{"test":"tst"}}
+Record: 2023/02/17 10:36:59.352276 /home/mustafa/GolandProjects/keycloack-transfer/main.go:109: Get Token is successfully
+Record: 2023/02/17 10:36:59.487381 /home/mustafa/GolandProjects/keycloack-transfer/main.go:98: 201
+Record: 2023/02/17 10:36:59.487428 /home/mustafa/GolandProjects/keycloack-transfer/main.go:88: {"username":"Mustafa8365","email":"Mustafa8365@yopmail.com","firstName":"Mustafa8365mq","lastName":null,"credentials":[{"type":"password","value":"test123"}],"enabled":false,"attributes":{"test":"tst"}}
+Record: 2023/02/17 10:36:59.627338 /home/mustafa/GolandProjects/keycloack-transfer/main.go:109: Get Token is successfully
+Record: 2023/02/17 10:36:59.761346 /home/mustafa/GolandProjects/keycloack-transfer/main.go:98: 201
+Record: 2023/02/17 10:36:59.761411 /home/mustafa/GolandProjects/keycloack-transfer/main.go:88: {"username":"Mustafa8366","email":"Mustafa8366@yopmail.com","firstName":"Mustafa8366mq","lastName":null,"credentials":[{"type":"password","value":"test123"}],"enabled":false,"attributes":{"test":"tst"}}
+Record: 2023/02/17 10:36:59.892486 /home/mustafa/GolandProjects/keycloack-transfer/main.go:109: Get Token is successfully
+Record: 2023/02/17 10:37:00.028367 /home/mustafa/GolandProjects/keycloack-transfer/main.go:98: 201
+Record: 2023/02/17 10:37:00.028420 /home/mustafa/GolandProjects/keycloack-transfer/main.go:88: {"username":"Mustafa8367","email":"Mustafa8367@yopmail.com","firstName":"Mustafa8367mq","lastName":null,"credentials":[{"type":"password","value":"test123"}],"enabled":false,"attributes":{"test":"tst"}}
+Record: 2023/02/17 10:37:00.165144 /home/mustafa/GolandProjects/keycloack-transfer/main.go:109: Get Token is successfully
+Record: 2023/02/17 10:37:00.298000 /home/mustafa/GolandProjects/keycloack-transfer/main.go:98: 201
+Record: 2023/02/17 10:37:00.298060 /home/mustafa/GolandProjects/keycloack-transfer/main.go:88: {"username":"Mustafa8368","email":"Mustafa8368@yopmail.com","firstName":"Mustafa8368mq","lastName":null,"credentials":[{"type":"password","value":"test123"}],"enabled":false,"attributes":{"test":"tst"}}
+Record: 2023/02/17 10:37:00.435182 /home/mustafa/GolandProjects/keycloack-transfer/main.go:109: Get Token is successfully
+Record: 2023/02/17 10:37:00.581030 /home/mustafa/GolandProjects/keycloack-transfer/main.go:98: 201
+Record: 2023/02/17 10:37:00.581079 /home/mustafa/GolandProjects/keycloack-transfer/main.go:88: {"username":"Mustafa8369","email":"Mustafa8369@yopmail.com","firstName":"Mustafa8369mq","lastName":null,"credentials":[{"type":"password","value":"test123"}],"enabled":false,"attributes":{"test":"tst"}}
+Record: 2023/02/17 10:37:00.728585 /home/mustafa/GolandProjects/keycloack-transfer/main.go:109: Get Token is successfully
+Record: 2023/02/17 10:37:00.871458 /home/mustafa/GolandProjects/keycloack-transfer/main.go:98: 201
+Record: 2023/02/17 10:37:00.871530 /home/mustafa/GolandProjects/keycloack-transfer/main.go:88: {"username":"Mustafa8370","email":"Mustafa8370@yopmail.com","firstName":"Mustafa8370mq","lastName":null,"credentials":[{"type":"password","value":"test123"}],"enabled":false,"attributes":{"test":"tst"}}
+Record: 2023/02/17 10:37:01.008992 /home/mustafa/GolandProjects/keycloack-transfer/main.go:109: Get Token is successfully
+Record: 2023/02/17 10:37:01.150135 /home/mustafa/GolandProjects/keycloack-transfer/main.go:98: 201
+Record: 2023/02/17 10:37:01.150189 /home/mustafa/GolandProjects/keycloack-transfer/main.go:88: {"username":"Mustafa8371","email":"Mustafa8371@yopmail.com","firstName":"Mustafa8371mq","lastName":null,"credentials":[{"type":"password","value":"test123"}],"enabled":false,"attributes":{"test":"tst"}}
+Record: 2023/02/17 10:37:01.309385 /home/mustafa/GolandProjects/keycloack-transfer/main.go:109: Get Token is successfully
+Record: 2023/02/17 10:37:01.449136 /home/mustafa/GolandProjects/keycloack-transfer/main.go:98: 201
+Record: 2023/02/17 10:37:01.449193 /home/mustafa/GolandProjects/keycloack-transfer/main.go:88: {"username":"Mustafa8372","email":"Mustafa8372@yopmail.com","firstName":"Mustafa8372mq","lastName":null,"credentials":[{"type":"password","value":"test123"}],"enabled":false,"attributes":{"test":"tst"}}
+Record: 2023/02/17 10:37:01.582469 /home/mustafa/GolandProjects/keycloack-transfer/main.go:109: Get Token is successfully
+Record: 2023/02/17 10:37:01.717052 /home/mustafa/GolandProjects/keycloack-transfer/main.go:98: 201
+Record: 2023/02/17 10:37:01.717108 /home/mustafa/GolandProjects/keycloack-transfer/main.go:88: {"username":"Mustafa8373","email":"Mustafa8373@yopmail.com","firstName":"Mustafa8373mq","lastName":null,"credentials":[{"type":"password","value":"test123"}],"enabled":false,"attributes":{"test":"tst"}}
+Record: 2023/02/17 10:37:01.849568 /home/mustafa/GolandProjects/keycloack-transfer/main.go:109: Get Token is successfully
+Record: 2023/02/17 10:37:01.990587 /home/mustafa/GolandProjects/keycloack-transfer/main.go:98: 201
+Record: 2023/02/17 10:37:01.990644 /home/mustafa/GolandProjects/keycloack-transfer/main.go:88: {"username":"Mustafa8374","email":"Mustafa8374@yopmail.com","firstName":"Mustafa8374mq","lastName":null,"credentials":[{"type":"password","value":"test123"}],"enabled":false,"attributes":{"test":"tst"}}
+Record: 2023/02/17 10:37:02.128495 /home/mustafa/GolandProjects/keycloack-transfer/main.go:109: Get Token is successfully
+Record: 2023/02/17 10:37:02.262140 /home/mustafa/GolandProjects/keycloack-transfer/main.go:98: 201
+Record: 2023/02/17 10:37:02.262189 /home/mustafa/GolandProjects/keycloack-transfer/main.go:88: {"username":"Mustafa8375","email":"Mustafa8375@yopmail.com","firstName":"Mustafa8375mq","lastName":null,"credentials":[{"type":"password","value":"test123"}],"enabled":false,"attributes":{"test":"tst"}}
+Record: 2023/02/17 10:37:02.394008 /home/mustafa/GolandProjects/keycloack-transfer/main.go:109: Get Token is successfully
+Record: 2023/02/17 10:37:02.529007 /home/mustafa/GolandProjects/keycloack-transfer/main.go:98: 201
+Record: 2023/02/17 10:37:02.529071 /home/mustafa/GolandProjects/keycloack-transfer/main.go:88: {"username":"Mustafa8376","email":"Mustafa8376@yopmail.com","firstName":"Mustafa8376mq","lastName":null,"credentials":[{"type":"password","value":"test123"}],"enabled":false,"attributes":{"test":"tst"}}
+Record: 2023/02/17 10:37:02.660327 /home/mustafa/GolandProjects/keycloack-transfer/main.go:109: Get Token is successfully
+Record: 2023/02/17 10:37:02.800944 /home/mustafa/GolandProjects/keycloack-transfer/main.go:98: 201
+Record: 2023/02/17 10:37:02.800999 /home/mustafa/GolandProjects/keycloack-transfer/main.go:88: {"username":"Mustafa8377","email":"Mustafa8377@yopmail.com","firstName":"Mustafa8377mq","lastName":null,"credentials":[{"type":"password","value":"test123"}],"enabled":false,"attributes":{"test":"tst"}}
+Record: 2023/02/17 10:37:02.934053 /home/mustafa/GolandProjects/keycloack-transfer/main.go:109: Get Token is successfully
+Record: 2023/02/17 10:37:03.070229 /home/mustafa/GolandProjects/keycloack-transfer/main.go:98: 201
+Record: 2023/02/17 10:37:03.070293 /home/mustafa/GolandProjects/keycloack-transfer/main.go:88: {"username":"Mustafa8378","email":"Mustafa8378@yopmail.com","firstName":"Mustafa8378mq","lastName":null,"credentials":[{"type":"password","value":"test123"}],"enabled":false,"attributes":{"test":"tst"}}
+Record: 2023/02/17 10:37:03.202735 /home/mustafa/GolandProjects/keycloack-transfer/main.go:109: Get Token is successfully
+Record: 2023/02/17 10:37:03.346394 /home/mustafa/GolandProjects/keycloack-transfer/main.go:98: 201
+Record: 2023/02/17 10:37:03.346443 /home/mustafa/GolandProjects/keycloack-transfer/main.go:88: {"username":"Mustafa8379","email":"Mustafa8379@yopmail.com","firstName":"Mustafa8379mq","lastName":null,"credentials":[{"type":"password","value":"test123"}],"enabled":false,"attributes":{"test":"tst"}}
+Record: 2023/02/17 10:37:03.483613 /home/mustafa/GolandProjects/keycloack-transfer/main.go:109: Get Token is successfully
+Record: 2023/02/17 10:37:03.618970 /home/mustafa/GolandProjects/keycloack-transfer/main.go:98: 201
+Record: 2023/02/17 10:37:03.619023 /home/mustafa/GolandProjects/keycloack-transfer/main.go:88: {"username":"Mustafa8380","email":"Mustafa8380@yopmail.com","firstName":"Mustafa8380mq","lastName":null,"credentials":[{"type":"password","value":"test123"}],"enabled":false,"attributes":{"test":"tst"}}
+Record: 2023/02/17 10:37:03.755062 /home/mustafa/GolandProjects/keycloack-transfer/main.go:109: Get Token is successfully
+Record: 2023/02/17 10:37:03.893337 /home/mustafa/GolandProjects/keycloack-transfer/main.go:98: 201
+Record: 2023/02/17 10:37:03.893417 /home/mustafa/GolandProjects/keycloack-transfer/main.go:88: {"username":"Mustafa8381","email":"Mustafa8381@yopmail.com","firstName":"Mustafa8381mq","lastName":null,"credentials":[{"type":"password","value":"test123"}],"enabled":false,"attributes":{"test":"tst"}}
+Record: 2023/02/17 10:37:04.026369 /home/mustafa/GolandProjects/keycloack-transfer/main.go:109: Get Token is successfully
+Record: 2023/02/17 10:37:04.167544 /home/mustafa/GolandProjects/keycloack-transfer/main.go:98: 201
+Record: 2023/02/17 10:37:04.167599 /home/mustafa/GolandProjects/keycloack-transfer/main.go:88: {"username":"Mustafa8382","email":"Mustafa8382@yopmail.com","firstName":"Mustafa8382mq","lastName":null,"credentials":[{"type":"password","value":"test123"}],"enabled":false,"attributes":{"test":"tst"}}
+Record: 2023/02/17 10:37:04.304290 /home/mustafa/GolandProjects/keycloack-transfer/main.go:109: Get Token is successfully
+Record: 2023/02/17 10:37:04.448232 /home/mustafa/GolandProjects/keycloack-transfer/main.go:98: 201
+Record: 2023/02/17 10:37:04.448295 /home/mustafa/GolandProjects/keycloack-transfer/main.go:88: {"username":"Mustafa8383","email":"Mustafa8383@yopmail.com","firstName":"Mustafa8383mq","lastName":null,"credentials":[{"type":"password","value":"test123"}],"enabled":false,"attributes":{"test":"tst"}}
+Record: 2023/02/17 10:37:04.580257 /home/mustafa/GolandProjects/keycloack-transfer/main.go:109: Get Token is successfully
+Record: 2023/02/17 10:37:04.711929 /home/mustafa/GolandProjects/keycloack-transfer/main.go:98: 201
+Record: 2023/02/17 10:37:04.711985 /home/mustafa/GolandProjects/keycloack-transfer/main.go:88: {"username":"Mustafa8384","email":"Mustafa8384@yopmail.com","firstName":"Mustafa8384mq","lastName":null,"credentials":[{"type":"password","value":"test123"}],"enabled":false,"attributes":{"test":"tst"}}
+Record: 2023/02/17 10:37:04.843263 /home/mustafa/GolandProjects/keycloack-transfer/main.go:109: Get Token is successfully
+Record: 2023/02/17 10:37:05.006393 /home/mustafa/GolandProjects/keycloack-transfer/main.go:98: 201
+Record: 2023/02/17 10:37:05.006447 /home/mustafa/GolandProjects/keycloack-transfer/main.go:88: {"username":"Mustafa8385","email":"Mustafa8385@yopmail.com","firstName":"Mustafa8385mq","lastName":null,"credentials":[{"type":"password","value":"test123"}],"enabled":false,"attributes":{"test":"tst"}}
+Record: 2023/02/17 10:37:05.140018 /home/mustafa/GolandProjects/keycloack-transfer/main.go:109: Get Token is successfully
+Record: 2023/02/17 10:37:05.275740 /home/mustafa/GolandProjects/keycloack-transfer/main.go:98: 201
+Record: 2023/02/17 10:37:05.275788 /home/mustafa/GolandProjects/keycloack-transfer/main.go:88: {"username":"Mustafa8386","email":"Mustafa8386@yopmail.com","firstName":"Mustafa8386mq","lastName":null,"credentials":[{"type":"password","value":"test123"}],"enabled":false,"attributes":{"test":"tst"}}
+Record: 2023/02/17 10:37:05.407885 /home/mustafa/GolandProjects/keycloack-transfer/main.go:109: Get Token is successfully
+Record: 2023/02/17 10:37:05.550877 /home/mustafa/GolandProjects/keycloack-transfer/main.go:98: 201
+Record: 2023/02/17 10:37:05.550934 /home/mustafa/GolandProjects/keycloack-transfer/main.go:88: {"username":"Mustafa8387","email":"Mustafa8387@yopmail.com","firstName":"Mustafa8387mq","lastName":null,"credentials":[{"type":"password","value":"test123"}],"enabled":false,"attributes":{"test":"tst"}}
+Record: 2023/02/17 10:37:05.695152 /home/mustafa/GolandProjects/keycloack-transfer/main.go:109: Get Token is successfully
+Record: 2023/02/17 10:37:05.830855 /home/mustafa/GolandProjects/keycloack-transfer/main.go:98: 201
+Record: 2023/02/17 10:37:05.830913 /home/mustafa/GolandProjects/keycloack-transfer/main.go:88: {"username":"Mustafa8388","email":"Mustafa8388@yopmail.com","firstName":"Mustafa8388mq","lastName":null,"credentials":[{"type":"password","value":"test123"}],"enabled":false,"attributes":{"test":"tst"}}
+Record: 2023/02/17 10:37:05.986516 /home/mustafa/GolandProjects/keycloack-transfer/main.go:109: Get Token is successfully
+Record: 2023/02/17 10:37:06.133922 /home/mustafa/GolandProjects/keycloack-transfer/main.go:98: 201
+Record: 2023/02/17 10:37:06.133984 /home/mustafa/GolandProjects/keycloack-transfer/main.go:88: {"username":"Mustafa8389","email":"Mustafa8389@yopmail.com","firstName":"Mustafa8389mq","lastName":null,"credentials":[{"type":"password","value":"test123"}],"enabled":false,"attributes":{"test":"tst"}}
+Record: 2023/02/17 10:37:06.272502 /home/mustafa/GolandProjects/keycloack-transfer/main.go:109: Get Token is successfully
+Record: 2023/02/17 10:37:06.411785 /home/mustafa/GolandProjects/keycloack-transfer/main.go:98: 201
+Record: 2023/02/17 10:37:06.411832 /home/mustafa/GolandProjects/keycloack-transfer/main.go:88: {"username":"Mustafa8390","email":"Mustafa8390@yopmail.com","firstName":"Mustafa8390mq","lastName":null,"credentials":[{"type":"password","value":"test123"}],"enabled":false,"attributes":{"test":"tst"}}
+Record: 2023/02/17 10:37:06.550278 /home/mustafa/GolandProjects/keycloack-transfer/main.go:109: Get Token is successfully
+Record: 2023/02/17 10:37:06.686216 /home/mustafa/GolandProjects/keycloack-transfer/main.go:98: 201
+Record: 2023/02/17 10:37:06.686310 /home/mustafa/GolandProjects/keycloack-transfer/main.go:88: {"username":"Mustafa8391","email":"Mustafa8391@yopmail.com","firstName":"Mustafa8391mq","lastName":null,"credentials":[{"type":"password","value":"test123"}],"enabled":false,"attributes":{"test":"tst"}}
+Record: 2023/02/17 10:37:06.818352 /home/mustafa/GolandProjects/keycloack-transfer/main.go:109: Get Token is successfully
+Record: 2023/02/17 10:37:06.958665 /home/mustafa/GolandProjects/keycloack-transfer/main.go:98: 201
+Record: 2023/02/17 10:37:06.958727 /home/mustafa/GolandProjects/keycloack-transfer/main.go:88: {"username":"Mustafa8392","email":"Mustafa8392@yopmail.com","firstName":"Mustafa8392mq","lastName":null,"credentials":[{"type":"password","value":"test123"}],"enabled":false,"attributes":{"test":"tst"}}
+Record: 2023/02/17 10:37:07.098827 /home/mustafa/GolandProjects/keycloack-transfer/main.go:109: Get Token is successfully
+Record: 2023/02/17 10:37:07.235243 /home/mustafa/GolandProjects/keycloack-transfer/main.go:98: 201
+Record: 2023/02/17 10:37:07.235291 /home/mustafa/GolandProjects/keycloack-transfer/main.go:88: {"username":"Mustafa8393","email":"Mustafa8393@yopmail.com","firstName":"Mustafa8393mq","lastName":null,"credentials":[{"type":"password","value":"test123"}],"enabled":false,"attributes":{"test":"tst"}}
+Record: 2023/02/17 10:37:07.383030 /home/mustafa/GolandProjects/keycloack-transfer/main.go:109: Get Token is successfully
+Record: 2023/02/17 10:37:07.527299 /home/mustafa/GolandProjects/keycloack-transfer/main.go:98: 201
+Record: 2023/02/17 10:37:07.527347 /home/mustafa/GolandProjects/keycloack-transfer/main.go:88: {"username":"Mustafa8394","email":"Mustafa8394@yopmail.com","firstName":"Mustafa8394mq","lastName":null,"credentials":[{"type":"password","value":"test123"}],"enabled":false,"attributes":{"test":"tst"}}
+Record: 2023/02/17 10:37:07.659721 /home/mustafa/GolandProjects/keycloack-transfer/main.go:109: Get Token is successfully
+Record: 2023/02/17 10:37:07.794475 /home/mustafa/GolandProjects/keycloack-transfer/main.go:98: 201
+Record: 2023/02/17 10:37:07.794530 /home/mustafa/GolandProjects/keycloack-transfer/main.go:88: {"username":"Mustafa8395","email":"Mustafa8395@yopmail.com","firstName":"Mustafa8395mq","lastName":null,"credentials":[{"type":"password","value":"test123"}],"enabled":false,"attributes":{"test":"tst"}}
+Record: 2023/02/17 10:37:07.926232 /home/mustafa/GolandProjects/keycloack-transfer/main.go:109: Get Token is successfully
+Record: 2023/02/17 10:37:08.064158 /home/mustafa/GolandProjects/keycloack-transfer/main.go:98: 201
+Record: 2023/02/17 10:37:08.064206 /home/mustafa/GolandProjects/keycloack-transfer/main.go:88: {"username":"Mustafa8396","email":"Mustafa8396@yopmail.com","firstName":"Mustafa8396mq","lastName":null,"credentials":[{"type":"password","value":"test123"}],"enabled":false,"attributes":{"test":"tst"}}
+Record: 2023/02/17 10:37:08.199411 /home/mustafa/GolandProjects/keycloack-transfer/main.go:109: Get Token is successfully
+Record: 2023/02/17 10:37:08.343154 /home/mustafa/GolandProjects/keycloack-transfer/main.go:98: 201
+Record: 2023/02/17 10:37:08.343210 /home/mustafa/GolandProjects/keycloack-transfer/main.go:88: {"username":"Mustafa8397","email":"Mustafa8397@yopmail.com","firstName":"Mustafa8397mq","lastName":null,"credentials":[{"type":"password","value":"test123"}],"enabled":false,"attributes":{"test":"tst"}}
+Record: 2023/02/17 10:37:08.474542 /home/mustafa/GolandProjects/keycloack-transfer/main.go:109: Get Token is successfully
+Record: 2023/02/17 10:37:08.621824 /home/mustafa/GolandProjects/keycloack-transfer/main.go:98: 201
+Record: 2023/02/17 10:37:08.621876 /home/mustafa/GolandProjects/keycloack-transfer/main.go:88: {"username":"Mustafa8398","email":"Mustafa8398@yopmail.com","firstName":"Mustafa8398mq","lastName":null,"credentials":[{"type":"password","value":"test123"}],"enabled":false,"attributes":{"test":"tst"}}
+Record: 2023/02/17 10:37:08.757192 /home/mustafa/GolandProjects/keycloack-transfer/main.go:109: Get Token is successfully
+Record: 2023/02/17 10:37:08.911877 /home/mustafa/GolandProjects/keycloack-transfer/main.go:98: 201
+Record: 2023/02/17 10:37:08.911940 /home/mustafa/GolandProjects/keycloack-transfer/main.go:88: {"username":"Mustafa8399","email":"Mustafa8399@yopmail.com","firstName":"Mustafa8399mq","lastName":null,"credentials":[{"type":"password","value":"test123"}],"enabled":false,"attributes":{"test":"tst"}}
+Record: 2023/02/17 10:37:09.058056 /home/mustafa/GolandProjects/keycloack-transfer/main.go:109: Get Token is successfully
+Record: 2023/02/17 10:37:09.191856 /home/mustafa/GolandProjects/keycloack-transfer/main.go:98: 201
+Record: 2023/02/17 10:37:09.191906 /home/mustafa/GolandProjects/keycloack-transfer/main.go:88: {"username":"Mustafa8400","email":"Mustafa8400@yopmail.com","firstName":"Mustafa8400mq","lastName":null,"credentials":[{"type":"password","value":"test123"}],"enabled":false,"attributes":{"test":"tst"}}
+Record: 2023/02/17 10:37:09.323069 /home/mustafa/GolandProjects/keycloack-transfer/main.go:109: Get Token is successfully
+Record: 2023/02/17 10:37:09.459964 /home/mustafa/GolandProjects/keycloack-transfer/main.go:98: 201
+Record: 2023/02/17 10:37:09.460024 /home/mustafa/GolandProjects/keycloack-transfer/main.go:88: {"username":"Mustafa8401","email":"Mustafa8401@yopmail.com","firstName":"Mustafa8401mq","lastName":null,"credentials":[{"type":"password","value":"test123"}],"enabled":false,"attributes":{"test":"tst"}}
+Record: 2023/02/17 10:37:09.596790 /home/mustafa/GolandProjects/keycloack-transfer/main.go:109: Get Token is successfully
+Record: 2023/02/17 10:37:09.734131 /home/mustafa/GolandProjects/keycloack-transfer/main.go:98: 201
+Record: 2023/02/17 10:37:09.734184 /home/mustafa/GolandProjects/keycloack-transfer/main.go:88: {"username":"Mustafa8402","email":"Mustafa8402@yopmail.com","firstName":"Mustafa8402mq","lastName":null,"credentials":[{"type":"password","value":"test123"}],"enabled":false,"attributes":{"test":"tst"}}
+Record: 2023/02/17 10:37:09.864339 /home/mustafa/GolandProjects/keycloack-transfer/main.go:109: Get Token is successfully
+Record: 2023/02/17 10:37:09.998583 /home/mustafa/GolandProjects/keycloack-transfer/main.go:98: 201
+Record: 2023/02/17 10:37:09.998638 /home/mustafa/GolandProjects/keycloack-transfer/main.go:88: {"username":"Mustafa8403","email":"Mustafa8403@yopmail.com","firstName":"Mustafa8403mq","lastName":null,"credentials":[{"type":"password","value":"test123"}],"enabled":false,"attributes":{"test":"tst"}}
+Record: 2023/02/17 10:37:10.130728 /home/mustafa/GolandProjects/keycloack-transfer/main.go:109: Get Token is successfully
+Record: 2023/02/17 10:37:10.263710 /home/mustafa/GolandProjects/keycloack-transfer/main.go:98: 201
+Record: 2023/02/17 10:37:10.263764 /home/mustafa/GolandProjects/keycloack-transfer/main.go:88: {"username":"Mustafa8404","email":"Mustafa8404@yopmail.com","firstName":"Mustafa8404mq","lastName":null,"credentials":[{"type":"password","value":"test123"}],"enabled":false,"attributes":{"test":"tst"}}
+Record: 2023/02/17 10:37:10.397662 /home/mustafa/GolandProjects/keycloack-transfer/main.go:109: Get Token is successfully
+Record: 2023/02/17 10:37:10.534325 /home/mustafa/GolandProjects/keycloack-transfer/main.go:98: 201
+Record: 2023/02/17 10:37:10.534375 /home/mustafa/GolandProjects/keycloack-transfer/main.go:88: {"username":"Mustafa8405","email":"Mustafa8405@yopmail.com","firstName":"Mustafa8405mq","lastName":null,"credentials":[{"type":"password","value":"test123"}],"enabled":false,"attributes":{"test":"tst"}}
+Record: 2023/02/17 10:37:10.666193 /home/mustafa/GolandProjects/keycloack-transfer/main.go:109: Get Token is successfully
+Record: 2023/02/17 10:37:10.796706 /home/mustafa/GolandProjects/keycloack-transfer/main.go:98: 201
+Record: 2023/02/17 10:37:10.796763 /home/mustafa/GolandProjects/keycloack-transfer/main.go:88: {"username":"Mustafa8406","email":"Mustafa8406@yopmail.com","firstName":"Mustafa8406mq","lastName":null,"credentials":[{"type":"password","value":"test123"}],"enabled":false,"attributes":{"test":"tst"}}
+Record: 2023/02/17 10:37:10.927001 /home/mustafa/GolandProjects/keycloack-transfer/main.go:109: Get Token is successfully
+Record: 2023/02/17 10:37:11.074265 /home/mustafa/GolandProjects/keycloack-transfer/main.go:98: 201
+Record: 2023/02/17 10:37:11.074317 /home/mustafa/GolandProjects/keycloack-transfer/main.go:88: {"username":"Mustafa8407","email":"Mustafa8407@yopmail.com","firstName":"Mustafa8407mq","lastName":null,"credentials":[{"type":"password","value":"test123"}],"enabled":false,"attributes":{"test":"tst"}}
+Record: 2023/02/17 10:37:11.208230 /home/mustafa/GolandProjects/keycloack-transfer/main.go:109: Get Token is successfully
+Record: 2023/02/17 10:37:11.343599 /home/mustafa/GolandProjects/keycloack-transfer/main.go:98: 201
+Record: 2023/02/17 10:37:11.343649 /home/mustafa/GolandProjects/keycloack-transfer/main.go:88: {"username":"Mustafa8408","email":"Mustafa8408@yopmail.com","firstName":"Mustafa8408mq","lastName":null,"credentials":[{"type":"password","value":"test123"}],"enabled":false,"attributes":{"test":"tst"}}
+Record: 2023/02/17 10:37:11.481663 /home/mustafa/GolandProjects/keycloack-transfer/main.go:109: Get Token is successfully
+Record: 2023/02/17 10:37:11.620423 /home/mustafa/GolandProjects/keycloack-transfer/main.go:98: 201
+Record: 2023/02/17 10:37:11.620470 /home/mustafa/GolandProjects/keycloack-transfer/main.go:88: {"username":"Mustafa8409","email":"Mustafa8409@yopmail.com","firstName":"Mustafa8409mq","lastName":null,"credentials":[{"type":"password","value":"test123"}],"enabled":false,"attributes":{"test":"tst"}}
+Record: 2023/02/17 10:37:11.757312 /home/mustafa/GolandProjects/keycloack-transfer/main.go:109: Get Token is successfully
+Record: 2023/02/17 10:37:11.900206 /home/mustafa/GolandProjects/keycloack-transfer/main.go:98: 201
+Record: 2023/02/17 10:37:11.900253 /home/mustafa/GolandProjects/keycloack-transfer/main.go:88: {"username":"Mustafa8410","email":"Mustafa8410@yopmail.com","firstName":"Mustafa8410mq","lastName":null,"credentials":[{"type":"password","value":"test123"}],"enabled":false,"attributes":{"test":"tst"}}
+Record: 2023/02/17 10:37:12.033824 /home/mustafa/GolandProjects/keycloack-transfer/main.go:109: Get Token is successfully
+Record: 2023/02/17 10:37:12.167958 /home/mustafa/GolandProjects/keycloack-transfer/main.go:98: 201
+Record: 2023/02/17 10:37:12.168009 /home/mustafa/GolandProjects/keycloack-transfer/main.go:88: {"username":"Mustafa8411","email":"Mustafa8411@yopmail.com","firstName":"Mustafa8411mq","lastName":null,"credentials":[{"type":"password","value":"test123"}],"enabled":false,"attributes":{"test":"tst"}}
+Record: 2023/02/17 10:37:12.308133 /home/mustafa/GolandProjects/keycloack-transfer/main.go:109: Get Token is successfully
+Record: 2023/02/17 10:37:12.444492 /home/mustafa/GolandProjects/keycloack-transfer/main.go:98: 201
+Record: 2023/02/17 10:37:12.444541 /home/mustafa/GolandProjects/keycloack-transfer/main.go:88: {"username":"Mustafa8412","email":"Mustafa8412@yopmail.com","firstName":"Mustafa8412mq","lastName":null,"credentials":[{"type":"password","value":"test123"}],"enabled":false,"attributes":{"test":"tst"}}
+Record: 2023/02/17 10:37:12.576277 /home/mustafa/GolandProjects/keycloack-transfer/main.go:109: Get Token is successfully
+Record: 2023/02/17 10:37:12.712911 /home/mustafa/GolandProjects/keycloack-transfer/main.go:98: 201
+Record: 2023/02/17 10:37:12.712987 /home/mustafa/GolandProjects/keycloack-transfer/main.go:88: {"username":"Mustafa8413","email":"Mustafa8413@yopmail.com","firstName":"Mustafa8413mq","lastName":null,"credentials":[{"type":"password","value":"test123"}],"enabled":false,"attributes":{"test":"tst"}}
+Record: 2023/02/17 10:37:12.843863 /home/mustafa/GolandProjects/keycloack-transfer/main.go:109: Get Token is successfully
+Record: 2023/02/17 10:37:12.990351 /home/mustafa/GolandProjects/keycloack-transfer/main.go:98: 201
+Record: 2023/02/17 10:37:12.990415 /home/mustafa/GolandProjects/keycloack-transfer/main.go:88: {"username":"Mustafa8414","email":"Mustafa8414@yopmail.com","firstName":"Mustafa8414mq","lastName":null,"credentials":[{"type":"password","value":"test123"}],"enabled":false,"attributes":{"test":"tst"}}
+Record: 2023/02/17 10:37:13.136962 /home/mustafa/GolandProjects/keycloack-transfer/main.go:109: Get Token is successfully
+Record: 2023/02/17 10:37:13.288309 /home/mustafa/GolandProjects/keycloack-transfer/main.go:98: 201
+Record: 2023/02/17 10:37:13.288362 /home/mustafa/GolandProjects/keycloack-transfer/main.go:88: {"username":"Mustafa8415","email":"Mustafa8415@yopmail.com","firstName":"Mustafa8415mq","lastName":null,"credentials":[{"type":"password","value":"test123"}],"enabled":false,"attributes":{"test":"tst"}}
+Record: 2023/02/17 10:37:13.423833 /home/mustafa/GolandProjects/keycloack-transfer/main.go:109: Get Token is successfully
+Record: 2023/02/17 10:37:13.563642 /home/mustafa/GolandProjects/keycloack-transfer/main.go:98: 201
+Record: 2023/02/17 10:37:13.563692 /home/mustafa/GolandProjects/keycloack-transfer/main.go:88: {"username":"Mustafa8416","email":"Mustafa8416@yopmail.com","firstName":"Mustafa8416mq","lastName":null,"credentials":[{"type":"password","value":"test123"}],"enabled":false,"attributes":{"test":"tst"}}
+Record: 2023/02/17 10:37:13.698017 /home/mustafa/GolandProjects/keycloack-transfer/main.go:109: Get Token is successfully
+Record: 2023/02/17 10:37:13.833110 /home/mustafa/GolandProjects/keycloack-transfer/main.go:98: 201
+Record: 2023/02/17 10:37:13.833171 /home/mustafa/GolandProjects/keycloack-transfer/main.go:88: {"username":"Mustafa8417","email":"Mustafa8417@yopmail.com","firstName":"Mustafa8417mq","lastName":null,"credentials":[{"type":"password","value":"test123"}],"enabled":false,"attributes":{"test":"tst"}}
+Record: 2023/02/17 10:37:13.966075 /home/mustafa/GolandProjects/keycloack-transfer/main.go:109: Get Token is successfully
+Record: 2023/02/17 10:37:14.101311 /home/mustafa/GolandProjects/keycloack-transfer/main.go:98: 201
+Record: 2023/02/17 10:37:14.101365 /home/mustafa/GolandProjects/keycloack-transfer/main.go:88: {"username":"Mustafa8418","email":"Mustafa8418@yopmail.com","firstName":"Mustafa8418mq","lastName":null,"credentials":[{"type":"password","value":"test123"}],"enabled":false,"attributes":{"test":"tst"}}
+Record: 2023/02/17 10:37:14.234073 /home/mustafa/GolandProjects/keycloack-transfer/main.go:109: Get Token is successfully
+Record: 2023/02/17 10:37:14.371186 /home/mustafa/GolandProjects/keycloack-transfer/main.go:98: 201
+Record: 2023/02/17 10:37:14.371240 /home/mustafa/GolandProjects/keycloack-transfer/main.go:88: {"username":"Mustafa8419","email":"Mustafa8419@yopmail.com","firstName":"Mustafa8419mq","lastName":null,"credentials":[{"type":"password","value":"test123"}],"enabled":false,"attributes":{"test":"tst"}}
+Record: 2023/02/17 10:37:14.506485 /home/mustafa/GolandProjects/keycloack-transfer/main.go:109: Get Token is successfully
+Record: 2023/02/17 10:37:14.642280 /home/mustafa/GolandProjects/keycloack-transfer/main.go:98: 201
+Record: 2023/02/17 10:37:14.642357 /home/mustafa/GolandProjects/keycloack-transfer/main.go:88: {"username":"Mustafa8420","email":"Mustafa8420@yopmail.com","firstName":"Mustafa8420mq","lastName":null,"credentials":[{"type":"password","value":"test123"}],"enabled":false,"attributes":{"test":"tst"}}
+Record: 2023/02/17 10:37:14.775578 /home/mustafa/GolandProjects/keycloack-transfer/main.go:109: Get Token is successfully
+Record: 2023/02/17 10:37:33.239205 /home/mustafa/GolandProjects/keycloack-transfer/main.go:98: 201
+Record: 2023/02/17 10:37:33.239279 /home/mustafa/GolandProjects/keycloack-transfer/main.go:88: {"username":"Mustafa8421","email":"Mustafa8421@yopmail.com","firstName":"Mustafa8421mq","lastName":null,"credentials":[{"type":"password","value":"test123"}],"enabled":false,"attributes":{"test":"tst"}}
+Record: 2023/02/17 10:37:33.371975 /home/mustafa/GolandProjects/keycloack-transfer/main.go:109: Get Token is successfully
+Record: 2023/02/17 10:37:33.505509 /home/mustafa/GolandProjects/keycloack-transfer/main.go:98: 201
+Record: 2023/02/17 10:37:33.505572 /home/mustafa/GolandProjects/keycloack-transfer/main.go:88: {"username":"Mustafa8422","email":"Mustafa8422@yopmail.com","firstName":"Mustafa8422mq","lastName":null,"credentials":[{"type":"password","value":"test123"}],"enabled":false,"attributes":{"test":"tst"}}
+Record: 2023/02/17 10:37:33.637522 /home/mustafa/GolandProjects/keycloack-transfer/main.go:109: Get Token is successfully
+Record: 2023/02/17 10:37:33.774806 /home/mustafa/GolandProjects/keycloack-transfer/main.go:98: 201
+Record: 2023/02/17 10:37:33.774862 /home/mustafa/GolandProjects/keycloack-transfer/main.go:88: {"username":"Mustafa8423","email":"Mustafa8423@yopmail.com","firstName":"Mustafa8423mq","lastName":null,"credentials":[{"type":"password","value":"test123"}],"enabled":false,"attributes":{"test":"tst"}}
+Record: 2023/02/17 10:37:33.907312 /home/mustafa/GolandProjects/keycloack-transfer/main.go:109: Get Token is successfully
+Record: 2023/02/17 10:37:34.039567 /home/mustafa/GolandProjects/keycloack-transfer/main.go:98: 201
+Record: 2023/02/17 10:37:34.039625 /home/mustafa/GolandProjects/keycloack-transfer/main.go:88: {"username":"Mustafa8424","email":"Mustafa8424@yopmail.com","firstName":"Mustafa8424mq","lastName":null,"credentials":[{"type":"password","value":"test123"}],"enabled":false,"attributes":{"test":"tst"}}
+Record: 2023/02/17 10:37:34.173083 /home/mustafa/GolandProjects/keycloack-transfer/main.go:109: Get Token is successfully
+Record: 2023/02/17 10:37:34.308758 /home/mustafa/GolandProjects/keycloack-transfer/main.go:98: 201
+Record: 2023/02/17 10:37:34.308806 /home/mustafa/GolandProjects/keycloack-transfer/main.go:88: {"username":"Mustafa8425","email":"Mustafa8425@yopmail.com","firstName":"Mustafa8425mq","lastName":null,"credentials":[{"type":"password","value":"test123"}],"enabled":false,"attributes":{"test":"tst"}}
+Record: 2023/02/17 10:37:34.442133 /home/mustafa/GolandProjects/keycloack-transfer/main.go:109: Get Token is successfully
+Record: 2023/02/17 10:37:34.578748 /home/mustafa/GolandProjects/keycloack-transfer/main.go:98: 201
+Record: 2023/02/17 10:37:34.578815 /home/mustafa/GolandProjects/keycloack-transfer/main.go:88: {"username":"Mustafa8426","email":"Mustafa8426@yopmail.com","firstName":"Mustafa8426mq","lastName":null,"credentials":[{"type":"password","value":"test123"}],"enabled":false,"attributes":{"test":"tst"}}
+Record: 2023/02/17 10:37:34.712741 /home/mustafa/GolandProjects/keycloack-transfer/main.go:109: Get Token is successfully
+Record: 2023/02/17 10:37:34.852662 /home/mustafa/GolandProjects/keycloack-transfer/main.go:98: 201
+Record: 2023/02/17 10:37:34.852740 /home/mustafa/GolandProjects/keycloack-transfer/main.go:88: {"username":"Mustafa8427","email":"Mustafa8427@yopmail.com","firstName":"Mustafa8427mq","lastName":null,"credentials":[{"type":"password","value":"test123"}],"enabled":false,"attributes":{"test":"tst"}}
+Record: 2023/02/17 10:37:34.994734 /home/mustafa/GolandProjects/keycloack-transfer/main.go:109: Get Token is successfully
+Record: 2023/02/17 10:37:35.160506 /home/mustafa/GolandProjects/keycloack-transfer/main.go:98: 201
+Record: 2023/02/17 10:37:35.160563 /home/mustafa/GolandProjects/keycloack-transfer/main.go:88: {"username":"Mustafa8428","email":"Mustafa8428@yopmail.com","firstName":"Mustafa8428mq","lastName":null,"credentials":[{"type":"password","value":"test123"}],"enabled":false,"attributes":{"test":"tst"}}
+Record: 2023/02/17 10:37:35.294242 /home/mustafa/GolandProjects/keycloack-transfer/main.go:109: Get Token is successfully
+Record: 2023/02/17 10:37:35.427272 /home/mustafa/GolandProjects/keycloack-transfer/main.go:98: 201
+Record: 2023/02/17 10:37:35.427322 /home/mustafa/GolandProjects/keycloack-transfer/main.go:88: {"username":"Mustafa8429","email":"Mustafa8429@yopmail.com","firstName":"Mustafa8429mq","lastName":null,"credentials":[{"type":"password","value":"test123"}],"enabled":false,"attributes":{"test":"tst"}}
+Record: 2023/02/17 10:37:35.556179 /home/mustafa/GolandProjects/keycloack-transfer/main.go:109: Get Token is successfully
+Record: 2023/02/17 10:37:35.689483 /home/mustafa/GolandProjects/keycloack-transfer/main.go:98: 201
+Record: 2023/02/17 10:37:35.689547 /home/mustafa/GolandProjects/keycloack-transfer/main.go:88: {"username":"Mustafa8430","email":"Mustafa8430@yopmail.com","firstName":"Mustafa8430mq","lastName":null,"credentials":[{"type":"password","value":"test123"}],"enabled":false,"attributes":{"test":"tst"}}
+Record: 2023/02/17 10:37:35.825311 /home/mustafa/GolandProjects/keycloack-transfer/main.go:109: Get Token is successfully
+Record: 2023/02/17 10:37:35.965830 /home/mustafa/GolandProjects/keycloack-transfer/main.go:98: 201
+Record: 2023/02/17 10:37:35.965878 /home/mustafa/GolandProjects/keycloack-transfer/main.go:88: {"username":"Mustafa8431","email":"Mustafa8431@yopmail.com","firstName":"Mustafa8431mq","lastName":null,"credentials":[{"type":"password","value":"test123"}],"enabled":false,"attributes":{"test":"tst"}}
+Record: 2023/02/17 10:37:36.114513 /home/mustafa/GolandProjects/keycloack-transfer/main.go:109: Get Token is successfully
+Record: 2023/02/17 10:37:36.262777 /home/mustafa/GolandProjects/keycloack-transfer/main.go:98: 201
+Record: 2023/02/17 10:37:36.262840 /home/mustafa/GolandProjects/keycloack-transfer/main.go:88: {"username":"Mustafa8432","email":"Mustafa8432@yopmail.com","firstName":"Mustafa8432mq","lastName":null,"credentials":[{"type":"password","value":"test123"}],"enabled":false,"attributes":{"test":"tst"}}
+Record: 2023/02/17 10:37:36.490480 /home/mustafa/GolandProjects/keycloack-transfer/main.go:109: Get Token is successfully
+Record: 2023/02/17 10:37:36.637122 /home/mustafa/GolandProjects/keycloack-transfer/main.go:98: 201
+Record: 2023/02/17 10:37:36.637179 /home/mustafa/GolandProjects/keycloack-transfer/main.go:88: {"username":"Mustafa8433","email":"Mustafa8433@yopmail.com","firstName":"Mustafa8433mq","lastName":null,"credentials":[{"type":"password","value":"test123"}],"enabled":false,"attributes":{"test":"tst"}}
+Record: 2023/02/17 10:37:36.839971 /home/mustafa/GolandProjects/keycloack-transfer/main.go:109: Get Token is successfully
+Record: 2023/02/17 10:37:36.984741 /home/mustafa/GolandProjects/keycloack-transfer/main.go:98: 201
+Record: 2023/02/17 10:37:36.984829 /home/mustafa/GolandProjects/keycloack-transfer/main.go:88: {"username":"Mustafa8434","email":"Mustafa8434@yopmail.com","firstName":"Mustafa8434mq","lastName":null,"credentials":[{"type":"password","value":"test123"}],"enabled":false,"attributes":{"test":"tst"}}
+Record: 2023/02/17 10:37:37.127476 /home/mustafa/GolandProjects/keycloack-transfer/main.go:109: Get Token is successfully
+Record: 2023/02/17 10:37:37.270605 /home/mustafa/GolandProjects/keycloack-transfer/main.go:98: 201
