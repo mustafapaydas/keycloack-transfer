@@ -1,16 +1,16 @@
 db:
-  host: "postgresql"
-  user: "testFlask"
-  password: "testFlask"
-  database: "testFlask"
-  port: "5432"
+  host: DB_HOST
+  user: DB_USER
+  password: DB_PASSWORD
+  database: DB_NAME
+  port: DB_PORT
   cursorSize: 100
 keycloak:
-  baseurl: "http://localhost:5001/"
-  realm: "test-service"
-  secretKey: "t6174ElRusm8kI0xggunVSbLcrpE0dnu"
-  user: "admin"
-  password: "admin"
+  baseurl: KEYCLOAKURL
+  realm: REALM_NAME
+  secretKey: SECRET_KEY
+  user: USERNAME
+  password: PASSWORD
 
 
 
